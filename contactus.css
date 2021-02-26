@@ -1,0 +1,61 @@
+body{
+    background-color: blueviolet;
+}
+.logo {
+    font-family: Montserrat;
+    color: azure;
+    font-weight: bold;
+}
+.heading{
+    font-family: Montserrat;
+    color: azure;
+
+}
+.detail{
+
+    position: absolute;
+    left: 20%;
+    top: 30%;
+    color: azure;
+    font-family: Montserrat;
+    
+    
+
+}
+.footer{
+    
+    position: absolute;
+    top: 75%;
+    left: 20%;
+}
+.robot{
+    color: azure;
+    font: Montserrat;
+    position: absolute;
+    top: 72.6%;
+    left: 22%;
+}
+.captcha{
+    position: absolute;
+    top: 75%;
+    left: 30%;
+}
+.message{
+    color: azure;
+    font-family: Montserrat;
+    position: absolute;
+    top: 29.4%;
+    left: 60%;
+}
+.box{
+    color: azure;
+    font-family: Montserrat;
+    position: absolute;
+    top: 34%;
+    left: 61%;
+}
+.button{
+    position: absolute;
+    top: 75%;
+    left: 60.5%;
+}

@@ -1,0 +1,40 @@
+body{
+    background-color: blueviolet;
+}
+label.logo {
+    font-family: Montserrat;
+    color: azure;
+    font-weight: bold;
+    
+    
+}
+.about{
+    color: azure;
+    font: Montserrat;
+}
+.detail{
+    color: azure;
+    font: Montserrat;
+    word-spacing: 10px;
+    text-align: left;
+}
+.app{
+    color: azure;
+    font: Montserrat;
+    display: inline-flex;
+    position: absolute;
+    top: 50%;
+
+}
+.copyright{
+    color: azure;
+    font: Montserrat;
+    position: absolute;
+    top: 50.5%;
+    left: 85%;
+}
+.footer{
+    position: absolute;
+    top: 52.4%;
+    left: 83%;
+}

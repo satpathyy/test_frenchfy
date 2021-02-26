@@ -1,0 +1,121 @@
+body{
+    background-color: blueviolet;
+    
+}
+li{
+    font-family: Montserrat;
+    font-weight: bold;
+    display: inline;
+    position: relative;
+    left: 40%;
+    padding: 10px;
+    
+    
+}
+.home{
+    position: absolute;
+    top: 0%;
+}
+.lasthome{
+    position: absolute;
+    top: 0%;
+    right: 12%;
+}
+ul li a {
+
+    color: azure;
+    text-decoration: none;
+}
+
+
+li a:hover {
+
+    color: black;
+    text-decoration: none;
+    
+}
+label.logo {
+    font-family: Montserrat;
+    color: azure;
+    font-weight: bold;
+    
+    
+}
+p1{
+    font-family: Montserrat;
+    font-weight: bold;
+    margin-left: 120px;
+    font-size: 50px;
+    line-height: 60px;
+    
+    
+    word-spacing: 10px;
+    
+}
+p2{
+    font-family: Montserrat;
+    font-weight: bold;
+    display: flex;
+    font-size: 50px;
+    margin-left: 150px;
+    line-height: 60px;
+    word-spacing: 10px;
+    
+}
+.social{
+    display: flex;
+    flex-direction: column;
+    float: right;
+    position: absolute;
+    top: 50%;
+    right: 1%;
+}
+.bowl{
+    position: absolute;
+    left: 55%;
+    bottom: 25%;
+}
+.chefsection{
+    font-size: medium;
+    position: absolute;
+    top: 70%;
+    left: 5%;
+    
+}
+.arrow{
+    position: absolute;
+    top: 73%;
+    left: 13%;
+
+}
+.chef{
+    position: absolute;
+    top: 50%;
+    left: 4%;
+
+}
+.next{
+    position: absolute;
+    top: 50%;
+    left: 16%;
+}
+.pages{
+    position: absolute;
+    right: 15%;
+    top: 88%;
+}
+.blackarrow{
+    position: absolute;
+    top: 90%;
+    right: 6%;
+}
+.lastpage{
+    position: absolute;
+    top: 88%;
+    right: 4%;
+
+}
+.slogan{
+    position: absolute;
+    top: 20%;
+}

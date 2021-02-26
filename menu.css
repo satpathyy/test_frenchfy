@@ -1,0 +1,37 @@
+body{
+    background-color: blueviolet;
+}
+.logo{
+    color: azure;
+    font-family: Montserrat;
+    font-weight: bolder;
+}
+.search{
+    color: azure;
+    font-family: Montserrat;
+    position: absolute;
+    top: 0%;
+    right: 8%;
+}
+.taste{
+    position: absolute;
+    top: 2.8%;
+    right: 16%;
+}
+.nonveg{
+    color: azure;
+    font-family: Montserrat;
+
+}
+.veg{
+    color: azure;
+    font-family: Montserrat;
+}
+.continental{
+    color: azure;
+    font-family: Montserrat;
+}
+.beverages{
+    color: azure;
+    font-family: Montserrat;
+}
